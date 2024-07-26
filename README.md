@@ -1,5 +1,6 @@
-# mkdocs-material-youtube-tutorial
+# Alexandria Archives
 
-Supporting code for my YouTube tutorial video:
+<br>
+<hr>
 
-[![Image.png](https://raw.githubusercontent.com/james-willett/mkdocs-material-youtube-tutorial/main/MkDocsMaterial_GH_Thumbnail.png)](https://www.youtube.com/watch?v=Q-YA_dA8C20)
+MkDocs-Material inspired by [James Willett](https://www.youtube.com/watch?v=Q-YA_dA8C20)
